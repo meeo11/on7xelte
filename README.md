@@ -10,5 +10,7 @@ Flash the ROM File.
 Restart to System. 
 
 # It's archived ROMs. Builded by me.
-That means, I don't update ROMs. 
+That means, I don't update ROMs.
+I'm not responsible for dead SD cards,
+dead USBs, dead cables. 
 ## Links in the Releases.
