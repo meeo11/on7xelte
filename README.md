@@ -11,3 +11,4 @@ Restart to System.
 
 # It's archived ROMs. Builded by me.
 That means, I don't update ROMs. 
+## Links in the Releases.
