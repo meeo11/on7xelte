@@ -9,7 +9,7 @@ Flash the Vendor File.
 Flash the ROM File.
 Restart to System. 
 
-# It's archived ROMs. Builded by me.
+# It's archived ROMs. NOT Builded by me.
 That means, I don't update ROMs.
 I'm not responsible for dead SD cards,
 dead USBs, dead cables. 
