@@ -1,6 +1,3 @@
-# on7xelte
-on7xelte (J7 Prime) Archived ROMs and TWRPs.
-
 # Installation ROMs
 Boot to TWRP or OrangeFox.
 Wipe System, Data, Dalvik, Dalvik Cache.
